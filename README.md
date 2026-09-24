@@ -11,7 +11,7 @@ Built as a single Laravel monolith with Livewire, so there is no separate API or
 This is a group project built by four people:
 
 - [Aerll Kian Villalon](https://github.com/aerllkianvillalon)
-- [Friend 1](https://github.com/friend-1-username)
+- [Gerald G. Durango](https://github.com/SolielLuna)
 - [Friend 2](https://github.com/friend-2-username)
 - [Friend 3](https://github.com/friend-3-username)
 
